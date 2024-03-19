@@ -1,0 +1,114 @@
+/* Establecer el color del texto */
+body, h1, h2, p {
+    color: white;
+}
+
+/* Cambiar el color de los títulos */
+h1,
+h2 {
+    color: yellow;
+}
+
+/* Establecer el color de fondo */
+body {
+    background-color: black;
+}
+
+/* Modificar el tamaño de la imagen */
+.img-fluid {
+    width: 50%; /* Ajustar el ancho al 100% */
+    height: auto; /* Mantener la proporción de aspecto */
+}
+
+/* Centrar los títulos */
+.jumbotron {
+    text-align: center;
+}
+
+/* Centrar los títulos */
+.tituloBiografias {
+    text-align: center;
+}
+
+
+
+/*TABLA*/
+
+
+/* Estilo para la tabla */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px; /* Espacio inferior entre tablas */
+}
+
+/* Estilo para las celdas de la tabla */
+td, th {
+    border: 1px solid #dddddd;
+    padding: 8px;
+    text-align: left;
+}
+
+/* Estilo para las filas impares */
+tbody tr:nth-child(odd) {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Estilo para el encabezado de la tabla */
+th {
+    background-color: #343a40;
+    color: white;
+}
+
+/* Estilo para la tabla cuando el mouse pasa sobre ella */
+table:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+
+/* Estilos personalizados para los enlaces */
+.btn-custom {
+    background-color: yellow; /* Color de fondo amarillo */
+    color: black; /* Color de texto negro */
+    border: none; /* Sin borde */
+    padding: 10px 20px; /* Espaciado interno */
+    margin: 10px; /* Margen exterior */
+    border-radius: 5px; /* Borde redondeado */
+    text-decoration: none; /* Sin subrayado */
+    display: inline-block; /* Mostrar como bloque en línea */
+}
+
+/* Centrar los enlaces */
+.text-center {
+    text-align: center;
+}
+
+
+/* Centrar los títulos */
+.jumbotron2 {
+    text-align: center;
+}
+
+.jumbotron3 {
+    text-align: center;
+}
+.jumbotron4 {
+    text-align: center;
+}
+
+
+.jumbotron5 {
+    text-align: center;
+}
+
+.jumbotron6 {
+    text-align: center;
+}
+
+.jumbotron7 {
+    text-align: center;
+}
+
+
+
